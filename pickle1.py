@@ -2,7 +2,8 @@ import streamlit as st
 import pickle
 
 # "/app/{repository name}/ {file.extension}"
-Pkl_Filename = "/Users/macbook/Downloads/Model.pkl"
+Pkl_Filename = "/app/pickle_deploy_demo/Model.pkl"
+#"/Users/macbook/Downloads/Model.pkl"
 
 #with open('model_pkl', 'wb') as files:
  #   pickle.dump(model, files)
